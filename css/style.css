@@ -426,6 +426,7 @@ a:focus {
 }
 
 .why_section .img_box {
+  
   min-width: 125px;
   min-height: 125px;
   margin-right: 25px;
@@ -481,6 +482,7 @@ a:focus {
 
 .client_section .detail_box .name_box {
   margin-top: 15px;
+  border-radius: 10px;
 }
 
 .client_section .detail_text {
